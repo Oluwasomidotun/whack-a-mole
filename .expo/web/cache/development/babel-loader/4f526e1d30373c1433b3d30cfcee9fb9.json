@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { addScore } from \"./actions\";","map":{"version":3,"sources":["C:/Users/oluwa/Documents/pwd/whack-a-mole/my-project/redux/index.js"],"names":["addScore"],"mappings":"AAAA,SAASA,QAAT","sourcesContent":["export { addScore } from './actions'"]},"metadata":{},"sourceType":"module"}
